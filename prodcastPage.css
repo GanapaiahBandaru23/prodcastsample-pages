@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-color: white;
+    height: 100vh;
+
+}
+
+.prodact-image {
+    height: 30vh;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    background-size: cover;
+
+
+}
+
+.podcast-heading {
+    color: white;
+    font-size: 30px;
+    font-family: "Roboto";
+    padding: 20px;
+}
+
+.producers-container {
+    padding: 10px;
+}
+
+.producer-image-container {
+    padding: 10px;
+}
+
+.producer-images {
+    height: 120px;
+    width: 140px;
+}
+
+.producer-name {
+    font-size: 15px;
+    font-family: "Roboto";
+    color: #151765;
+    font-weight: bold;
+    margin-top: 5px;
+    text-align: center;
+
+}
+
+.episodes {
+    color: #5a7184;
+    font-size: 13px;
+    font-family: "Roboto";
+    text-align: center;
+
+}
+
+.puri-container{
+    background-color:#151765;
+    width:100vw;
+    height:30vh;
+    padding: 20px;
+}
+
+.purri-podcast{
+    font-size:10px;
+    color:white;
+    margin-left:10px;
+}
+.puri-heading{
+    font-size:20px;
+    color:white;
+    font-family:"Roboto";
+    font-weight:bold;
+    margin-left: 10px;
+    width:200px;
+}
+
+.puri-under-container{
+    
+    margin: 20px;
+}
+.puri-under-text-container{
+    margin-left:20px;
+}
+.puri-under-heading{
+    font-size:15px;
+    font-family: "Roboto";
+    color:#152765;
+    font-weight:bold;
+}
+.puri-under-decription{
+    font-size:12px;
+    font-family: "Roboto";
+    color:#5a7184;
+    font-weight:bold;
+    width:200px;
+}
+.minutes{
+    font-size:8px;
+    color:#5a7184;
+    font-weight:bold;
+}
+.button{
+    text-align: right;
+    border-radius:10px;
+}
+
+.next-line{
+    color:#151765;
+    font-size:20px;
+    font-family:"Roboto";
+    margin-left:20px;
+}
+
